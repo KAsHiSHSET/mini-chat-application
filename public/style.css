@@ -1,0 +1,33 @@
+.body
+{
+    background-color: rgb(95, 163, 187);
+}
+.chat{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    border: 2px;
+    border-color: dodgerblue;
+
+    width:300px;
+    height:350px;
+    margin-bottom: 10px;
+}
+.p{
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: black;
+    margin: 2px;
+}
+.bts{
+    background-color: dodgerblue;
+    margin-bottom: 10px;
+    border-radius:12px;
+    color:aliceblue;
+}
+.msg{
+    background-color: dodgerblue;
+    color:white;
+    border-radius: 22px;
+    padding:5px 15px;
+}
